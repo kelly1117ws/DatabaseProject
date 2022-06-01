@@ -1,1 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T16:50:01.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="1iqhBOTp8Wh123a4_FeD" version="18.1.2" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-01T17:08:08.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="IFtlNQWQDci-MOTcE6xJ" version="18.1.2" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="830" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="IzoT1xc8KnWRSlpe4xZO-1" target="IzoT1xc8KnWRSlpe4xZO-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="200" />
+              <mxPoint x="310" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-1" value="RFID數據管理系統" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="IzoT1xc8KnWRSlpe4xZO-2" target="IzoT1xc8KnWRSlpe4xZO-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="220" />
+              <mxPoint x="300" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-2" value="檔案管理系統" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="355" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-5" value="數據反饋" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-6" value="數據請求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-8" value="中&lt;br style=&quot;font-size: 15px;&quot;&gt;心&lt;br style=&quot;font-size: 15px;&quot;&gt;數&lt;br style=&quot;font-size: 15px;&quot;&gt;據&lt;br style=&quot;font-size: 15px;&quot;&gt;庫" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="290" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-10" value="終&lt;br style=&quot;font-size: 15px;&quot;&gt;端&lt;br style=&quot;font-size: 15px;&quot;&gt;管&lt;br style=&quot;font-size: 15px;&quot;&gt;理&lt;br style=&quot;font-size: 15px;&quot;&gt;器" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="383.75" y="240" width="77.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-13" value="儲&lt;br style=&quot;font-size: 15px;&quot;&gt;位&lt;br style=&quot;font-size: 15px;&quot;&gt;管&lt;br style=&quot;font-size: 15px;&quot;&gt;理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="45" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-14" value="查&lt;br style=&quot;font-size: 15px;&quot;&gt;詢&lt;br style=&quot;font-size: 15px;&quot;&gt;管&lt;br style=&quot;font-size: 15px;&quot;&gt;理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="45" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-15" value="銷&lt;br style=&quot;font-size: 15px;&quot;&gt;毀&lt;br style=&quot;font-size: 15px;&quot;&gt;管&lt;br style=&quot;font-size: 15px;&quot;&gt;理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="45" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-16" value="安&lt;br style=&quot;font-size: 15px;&quot;&gt;全&lt;br style=&quot;font-size: 15px;&quot;&gt;管&lt;br style=&quot;font-size: 15px;&quot;&gt;理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="495" y="290" width="45" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="295.63" y="410" width="73.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-18" value="儲&lt;br style=&quot;font-size: 15px;&quot;&gt;位&lt;br style=&quot;font-size: 15px;&quot;&gt;自&lt;br style=&quot;font-size: 15px;&quot;&gt;動&lt;br style=&quot;font-size: 15px;&quot;&gt;識&lt;br style=&quot;font-size: 15px;&quot;&gt;別" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="45" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-19" value="檔&lt;br style=&quot;font-size: 15px;&quot;&gt;案&lt;br style=&quot;font-size: 15px;&quot;&gt;自&lt;br style=&quot;font-size: 15px;&quot;&gt;動&lt;br style=&quot;font-size: 15px;&quot;&gt;識&lt;br style=&quot;font-size: 15px;&quot;&gt;別" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="45" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="480.63" y="410" width="73.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-23" value="監&lt;br style=&quot;font-size: 15px;&quot;&gt;控" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="461.25" y="450" width="45" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IzoT1xc8KnWRSlpe4xZO-24" value="警&lt;br style=&quot;font-size: 15px;&quot;&gt;報" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="450" width="45" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
